@@ -8,6 +8,13 @@ A comprehensive Power BI dashboard analyzing survey responses from 630 data prof
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](assets/dashboard-preview.png)
+
+
+---
+
 ## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
@@ -382,12 +389,6 @@ Contributions, issues, and feature requests are welcome!
 - Power BI community for inspiration and best practices
 - Microsoft for Power BI Desktop and documentation
 - Data professionals worldwide contributing to the field
-
----
-
-## 📊 Dashboard Preview
-
-![Dashboard Preview](assets/dashboard-preview.png)
 
 ---
 
