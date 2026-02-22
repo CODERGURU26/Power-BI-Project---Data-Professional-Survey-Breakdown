@@ -366,14 +366,6 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 📧 Contact & Connect
-
 ### Author
 
 **Gururaj Krishna Sharma**
@@ -396,7 +388,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](assets/dashboard-preview.png)
-*Screenshot of the main dashboard (Add your actual screenshot here)*
 
 ---
 
