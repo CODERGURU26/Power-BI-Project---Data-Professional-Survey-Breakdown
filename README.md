@@ -10,7 +10,7 @@ A comprehensive Power BI dashboard analyzing survey responses from 630 data prof
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](Screenshot 2026-02-22 120124.png)
 
 
 ---
